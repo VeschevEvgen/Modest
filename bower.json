@@ -1,0 +1,20 @@
+{
+  "name": "Modest",
+  "authors": [
+    "Veschev_Evgen <eugendoc1988@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "tajem": "djvang/tajem"
+  }
+}
